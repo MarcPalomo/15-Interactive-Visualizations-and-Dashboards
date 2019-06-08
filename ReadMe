@@ -1,0 +1,20 @@
+Thank you for coming to my Repo for the 15-Interactive-Visualizations-and-Dashboards Homework.
+
+You can find my Heroku site at: https://aqueous-chamber-67997.herokuapp.com/
+
+The files in this Repo are:
+Procfile
+initdb.py
+requirements.txt
+
+The above 3 were essential in creating the Heroku site.
+
+The "belly_button" folder contains folders that contain folders with code and more Heroku files:
+__pycache__
+__init__.py
+
+The above 2 files wre also essential in creating the Heroku site.
+
+The folder "db" contains the starter sqlite starter files.
+The folder "static" contains another folder, "js", that contains my app.js code for the entire project.
+The folder "templates" contains the "index.html" file that is disiplayed on the Heroku site (linked above).
